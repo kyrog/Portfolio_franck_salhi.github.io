@@ -285,3 +285,7 @@ header.masthead p {
   visibility: visible;
   opacity: 1;
 }
+.resize{
+  height: 400px;
+  width: 400px;
+}
